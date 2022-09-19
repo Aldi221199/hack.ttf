@@ -1,0 +1,2 @@
+# hack.ttf
+script
